@@ -1,0 +1,27 @@
+Steps to follow:
+
+Step 1: Clone the git project  ---> git clone <project_url>
+
+Stpe 2: Make the necessary Changes in the project. (adding parent package, sub-package, class, etc.)
+
+Step 3: Check the status of the project ---> git status
+
+Step 4: Track all/selected file with git --->  
+		-- git add <file_name>  (for a single file)
+		-- git add .            (for all file at once)
+
+Step 5: Commit the Changes --->  git commit -m "initial project setup"
+
+Step 6: Check the remote branch  --->  git remote -v
+
+Step 7: (if no remote branch) Add remote to the current project  ---> git remote add <remote_name> <project_url>
+		
+Step 8: Publish the code to github  ---> git push -f <remote_name> master   	
+
+
+
+
+									
+
+   
+		
